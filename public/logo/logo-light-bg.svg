@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" fill="none">
+  <!-- Monogram NC emblem -->
+  <rect x="2" y="6" width="52" height="52" rx="14" fill="#142A3A" stroke="#142A3A" stroke-width="1.5"/>
+  <path d="M16 44V20L30 44V20" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M43 27C41.5 23 38 22 35 23C31 24.3 29 28.5 29 32C29 35.5 31 39.7 35 41C38 42 41.5 41 43 37" stroke="#397F87" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Text Brand -->
+  <text x="68" y="32" font-family="'Manrope', 'Inter', sans-serif" font-size="20" font-weight="800" letter-spacing="1.5" fill="#142A3A">NC <tspan fill="#397F87">PRO</tspan>CLEANING</text>
+  <text x="69" y="48" font-family="'Inter', sans-serif" font-size="9.5" font-weight="600" letter-spacing="2.5" fill="#80909A">COMMERCIAL SERVICES</text>
+</svg>
